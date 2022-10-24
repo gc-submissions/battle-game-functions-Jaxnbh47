@@ -39,7 +39,6 @@ let fight = function (player1, player2, player1Health, player2Health){
                             logDeath(player2, player1)
                             break
             }
-        
         }
     }
 }
